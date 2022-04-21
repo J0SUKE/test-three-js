@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   
-  <h3 align="center">GIPHY landing page</h3>
+  <h3 align="center">Three Js test</h3>
 
   <p align="center">
     Test d'un projet Three JS
