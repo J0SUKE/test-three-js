@@ -10,4 +10,9 @@ a {
   text-decoration: none;
   color: inherit;
 }
+
+body, html, .container {
+  overflow: hidden;
+  height: 100vh;
+}
 /*# sourceMappingURL=style.css.map */
